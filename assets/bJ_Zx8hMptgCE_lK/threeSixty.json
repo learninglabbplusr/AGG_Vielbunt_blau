@@ -1,0 +1,52 @@
+{
+  "version": "3.105.35604.0",
+  "course_id": "6esI2IIZwkl",
+  "title": "Dialog: Zweck und Ziel des AGGs",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "01-3_Dialog_Einleitung_Zweck_und_Ziel_des_AGG"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5nnpeaQeGF3",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5s2PPujGfO6",
+      "title": "Intro Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5h24WRrW27v",
+      "title": "Intro Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5dnki0ozJmt",
+      "title": "Intro Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "612rpxCP5gR",
+      "title": "Intro Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5qlnvusHR6D",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 2180,
+    "height": 1198
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}

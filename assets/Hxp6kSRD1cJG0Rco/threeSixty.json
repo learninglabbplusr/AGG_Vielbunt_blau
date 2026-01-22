@@ -1,0 +1,67 @@
+{
+  "version": "3.105.35604.0",
+  "course_id": "6mg0hfqURSR",
+  "title": "Dialog: Warum gibt es das AGG?",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "01-2_Dialog_Abbinder_Warum_gibt_es_das_und_Geschichte_des_AGG"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5a7D4dwPY7z",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6hoDAZjVj0r",
+      "title": "Intro Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5fEWM5XclsD",
+      "title": "Intro Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6YWuS6F5Vw5",
+      "title": "Intro Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6c9ynYIaevt",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6HvDsZtjm5c",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6p2RrQJNwO6",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "62USYy6fUWV",
+      "title": "Intro Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5sgYX6AnxoU",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 2180,
+    "height": 1198
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
